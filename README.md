@@ -62,8 +62,5 @@
 <h2>Contributions</h2>
 <p>Contributions are welcome! If you have suggestions for improvements or new features, please open an issue or submit a pull request.</p>
 
-<h2>License</h2>
-<p>This project is licensed under the MIT License. See the LICENSE file for details.</p>
-
 <h2>Contact</h2>
 <p>For any questions or further information, please contact Vishva Dalela at <a href="mailto:vishva.dalela@gmail.com">vishva.dalela@gmail.com</a>.</p>
