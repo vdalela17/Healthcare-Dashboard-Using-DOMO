@@ -1,4 +1,3 @@
-# Healthcare-Dashboard-Using-DOMO
 <h1>Healthcare Dashboard Using DOMO</h1>
 
 <h2>Project Overview</h2>
